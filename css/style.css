@@ -269,7 +269,6 @@ h2{
 
   .mySlides {
     display: none;
-    /* position: absolute; */
     width: 100%;
   }
 
@@ -277,7 +276,6 @@ h2{
     cursor: pointer;
 }
 
-/* Style to initially hide the GIFs */
 .gif-image {
     display: none;
 }
